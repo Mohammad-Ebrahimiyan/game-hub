@@ -16,7 +16,7 @@ To set up the API key for the project, follow these steps:
 Install dependencies
 
 ```bash
-  npm run install
+  npm install
 ```
 
 Start the server
